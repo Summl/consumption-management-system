@@ -1,4 +1,4 @@
-# 
+# consumption-management-system
 C_大学生个人消费管理系统
 
 ## 功能描述
